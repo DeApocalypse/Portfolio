@@ -44,7 +44,7 @@ int main()
 	while (1)
 	{
 		fflush(stdin);
-		printf("Game window size (16 - 25)\nEnter '0' to use config file values");
+		printf("Snake_Apocalypse\n\nGame window size (16 - 25)\nEnter '0' to use config file values");
 		scanf("%d", &arraySizeX);
 
 		if ((!(arraySizeX < 16 || arraySizeX > 25)) || (arraySizeX == 0)) break;
@@ -349,7 +349,7 @@ int main()
 		{
 			while (1)
 			{
-				printf("U R dead ! Game over\nStart new game? (Y/N and press ENTER)\n");
+				printf("Game Over\nStart new game? (Y/N and press ENTER)\n");
 				fflush(stdin);
 				scanf("%c", &newGameChoice);
 				if (newGameChoice == 'n' || newGameChoice == 'N')
