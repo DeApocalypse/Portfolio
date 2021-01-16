@@ -349,7 +349,7 @@ int main()
 		{
 			while (1)
 			{
-				printf("Game Over\nStart new game? (Y/N and press ENTER)\n");
+				printf("Game Over...!!!\n\nPress N to exit from the game\nPress Y to play the game again\n");
 				fflush(stdin);
 				scanf("%c", &newGameChoice);
 				if (newGameChoice == 'n' || newGameChoice == 'N')
