@@ -37,7 +37,7 @@ class PayWindow(QDialog):
 
         self.moneyLine=QLineEdit('',self)
         self.moneyLine.resize(140,25)
-        self.moneyLine.move(100,225)
+        self.moneyLine.move(125,225)
         #버튼
         backBtn=QPushButton('취소하기',self)
         backBtn.resize(100,30)
