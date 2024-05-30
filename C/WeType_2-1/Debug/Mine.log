@@ -1,0 +1,26 @@
+﻿  game.c
+C:\Users\user\Documents\학업\건국사이버대학교\2-1\C프로그래밍(0452, 박소영)\팀프\Mine\game.c(91,15): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\학업\건국사이버대학교\2-1\C프로그래밍(0452, 박소영)\팀프\Mine\game.c(110,18): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\학업\건국사이버대학교\2-1\C프로그래밍(0452, 박소영)\팀프\Mine\game.c(123,20): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\학업\건국사이버대학교\2-1\C프로그래밍(0452, 박소영)\팀프\Mine\game.c(141,40): warning C4244: '-=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\학업\건국사이버대학교\2-1\C프로그래밍(0452, 박소영)\팀프\Mine\game.c(186,21): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\학업\건국사이버대학교\2-1\C프로그래밍(0452, 박소영)\팀프\Mine\game.c(218,13): warning C4098: 'game': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\user\Documents\학업\건국사이버대학교\2-1\C프로그래밍(0452, 박소영)\팀프\Mine\game.c(273,49): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\학업\건국사이버대학교\2-1\C프로그래밍(0452, 박소영)\팀프\Mine\game.c(280,71): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\학업\건국사이버대학교\2-1\C프로그래밍(0452, 박소영)\팀프\Mine\game.c(281,49): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\학업\건국사이버대학교\2-1\C프로그래밍(0452, 박소영)\팀프\Mine\game.c(282,67): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\학업\건국사이버대학교\2-1\C프로그래밍(0452, 박소영)\팀프\Mine\game.c(287,73): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\학업\건국사이버대학교\2-1\C프로그래밍(0452, 박소영)\팀프\Mine\game.c(288,49): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\학업\건국사이버대학교\2-1\C프로그래밍(0452, 박소영)\팀프\Mine\game.c(289,69): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\학업\건국사이버대학교\2-1\C프로그래밍(0452, 박소영)\팀프\Mine\game.c(294,72): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\학업\건국사이버대학교\2-1\C프로그래밍(0452, 박소영)\팀프\Mine\game.c(295,50): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\학업\건국사이버대학교\2-1\C프로그래밍(0452, 박소영)\팀프\Mine\game.c(296,67): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\학업\건국사이버대학교\2-1\C프로그래밍(0452, 박소영)\팀프\Mine\game.c(306,49): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\학업\건국사이버대학교\2-1\C프로그래밍(0452, 박소영)\팀프\Mine\game.c(322,67): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\학업\건국사이버대학교\2-1\C프로그래밍(0452, 박소영)\팀프\Mine\game.c(337,69): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\학업\건국사이버대학교\2-1\C프로그래밍(0452, 박소영)\팀프\Mine\game.c(352,67): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main.c
+C:\Users\user\Documents\학업\건국사이버대학교\2-1\C프로그래밍(0452, 박소영)\팀프\Mine\main.c(132,15): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\학업\건국사이버대학교\2-1\C프로그래밍(0452, 박소영)\팀프\Mine\main.c(166,15): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  Mine.vcxproj -> C:\Users\user\Documents\학업\건국사이버대학교\2-1\C프로그래밍(0452, 박소영)\팀프\Mine\Debug\Mine.exe
